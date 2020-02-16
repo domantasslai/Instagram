@@ -18,3 +18,5 @@ Instagramo klonas, kuriame kiekvienas naudotojas gali:
     
     
   
+> Darbui naudota:
+> Laravel, Vue, Bootstrap.
