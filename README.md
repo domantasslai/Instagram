@@ -19,4 +19,4 @@ Instagramo klonas, kuriame kiekvienas naudotojas gali:
     
   
 > Darbui naudota:
-> Laravel, Vue, Bootstrap.
+> Laravel 6, Vue, Bootstrap, [http://image.intervention.io/](http://image.intervention.io/)
