@@ -2,7 +2,7 @@
 
 Instagramo klonas, kuriame kiekvienas naudotojas gali:
 
--Neregistruoto vartotojo Use case:
+- Neregistruoto vartotojo Use case:
     - Užsiregistruoti;
 - Registruoto vartotojo Use case:
     - Prisijungti prie sistemos
